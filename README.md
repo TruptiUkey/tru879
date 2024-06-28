@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @tru879
+- 👋 Hi, I’m @tru879.
 - 👀 I’m interested in playing outdoor games and cooking.
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on - Open-source projects for social impact
+- 🌱 I’m currently learning react.
+- 💞️ I’m looking to collaborate on - Open-source projects for social impact.
 - 📫 How to reach me ukeytrupti@gmail.com
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her.
 
 
 <!---
